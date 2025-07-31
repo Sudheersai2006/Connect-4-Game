@@ -27,5 +27,5 @@ JavaScript (Vanilla)
 <img width="1417" height="760" alt="Image" src="https://github.com/user-attachments/assets/fae46471-0584-40bc-a2ba-e14308ec38a7" />
 
 # 🙋‍♂️ Author
-Made with ❤️ by Naveen
+Made with ❤️ by Sudheer sai
 LinkedIn | GitHub
